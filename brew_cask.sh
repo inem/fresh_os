@@ -14,6 +14,8 @@ brew cask install typora
 
 brew cask install opera
 
+brew cask install punto-switcher
+
 brew cask install bartender
 brew cask install google-chrome
 brew cask install odrive
